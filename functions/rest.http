@@ -1,0 +1,15 @@
+
+GET http://localhost:5001/fire-cloud-fun/us-central1/api2
+
+###
+POST http://localhost:5001/fire-cloud-fun/us-central1/api2
+
+Content-Type:application/json
+
+{
+    "name": "Chirag Modh",
+    "college":"ABV-IIITM"
+}
+
+###
+DELETE http://localhost:5001/fire-cloud-fun/us-central1/api2
