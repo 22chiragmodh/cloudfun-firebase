@@ -28,6 +28,6 @@
 ### Use REST Client Extension in VS Code IDE to make easy to send GET, POST, DELETE, PUT Request:
 - setup
 ##### 1] first create rest.http folder into functions folder
-##### 2] how to write different type of api check my repo:- 
+##### 2] how to write different type of api check my repo:- https://github.com/22chiragmodh/cloudfun-firebase and check rest.http folder which is inside in functions folder.
 
 
